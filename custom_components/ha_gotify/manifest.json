@@ -1,0 +1,10 @@
+{
+  "domain": "ha_gotify",
+  "name": "HA Gotify",
+  "codeowners": [],
+  "documentation": "https://github.com/umi/HA-Gotify",
+  "iot_class": "cloud_push",
+  "loggers": ["custom_components.ha_gotify"],
+  "requirements": [],
+  "version": "0.4.1"
+}
